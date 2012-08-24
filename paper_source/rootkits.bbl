@@ -1,0 +1,58 @@
+\begin{thebibliography}{1}\setlength{\itemsep}{-1ex}\small
+
+\bibitem{Embleton08-SMM}
+S.~Embleton, S.~Sparks, and C.~Zou.
+\newblock Smm rootkits: a new breed of os independent malware.
+\newblock In {\em SecureComm '08: Proceedings of the 4th international
+  conference on Security and privacy in communication netowrks}, pages 1--12,
+  New York, NY, USA, 2008. ACM.
+
+\bibitem{Hoglund05-rootkits}
+G.~Hoglund and J.~Butler.
+\newblock {\em Rootkits: Subverting the Windows Kernel}.
+\newblock Addison-Wesley Professional, 2005.
+
+\bibitem{Hoglund04-exploit}
+G.~Hoglund and G.~McGraw.
+\newblock {\em Exploiting Software: How to Break Code}.
+\newblock Pearson Higher Education, 2004.
+
+\bibitem{Kabay05-malware}
+M.~E. Kabay.
+\newblock Some notes on malware.
+\newblock {\em Ubiquity}, 2005(August):1--1, 2005.
+
+\bibitem{Martignoni08-malicious}
+L.~Martignoni, E.~Stinson, M.~Fredrikson, S.~Jha, and J.~C. Mitchell.
+\newblock A layered architecture for detecting malicious behaviors.
+\newblock In {\em RAID '08: Proceedings of the 11th international symposium on
+  Recent Advances in Intrusion Detection}, pages 78--97, Berlin, Heidelberg,
+  2008. Springer-Verlag.
+
+\bibitem{Moffie06-trojans}
+M.~Moffie, W.~Cheng, D.~Kaeli, and Q.~Zhao.
+\newblock Hunting trojan horses.
+\newblock In {\em ASID '06: Proceedings of the 1st workshop on Architectural
+  and system support for improving software dependability}, pages 12--17, New
+  York, NY, USA, 2006. ACM.
+
+\bibitem{Sagiroglu09-keyloggers}
+S.~Sagiroglu and G.~Canbek.
+\newblock Keyloggers: Increasing threats to computer security and privacy.
+\newblock In {\em Technology and Society Magazine, IEEE}, pages 10--17. IEEE,
+  2009.
+
+\bibitem{Shah06-covert}
+G.~Shah, A.~Molina, and M.~Blaze.
+\newblock Keyboards and covert channels.
+\newblock In {\em USENIX-SS'06: Proceedings of the 15th conference on USENIX
+  Security Symposium}, Berkeley, CA, USA, 2006. USENIX Association.
+
+\bibitem{Yin07-panorama}
+H.~Yin, D.~Song, M.~Egele, C.~Kruegel, and E.~Kirda.
+\newblock Panorama: capturing system-wide information flow for malware
+  detection and analysis.
+\newblock In {\em CCS '07: Proceedings of the 14th ACM conference on Computer
+  and communications security}, pages 116--127, New York, NY, USA, 2007. ACM.
+
+\end{thebibliography}

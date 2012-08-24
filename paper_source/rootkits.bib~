@@ -1,0 +1,111 @@
+
+%
+%  $Description: Sample bibliography$ 
+% 
+%  $Author: ienne $ 
+%  $Date: 1995/09/15 15:19:53 $
+%  $Revision: 1.3 $
+%
+
+@inproceedings{Martignoni08-malicious,
+ author = {Martignoni, Lorenzo and Stinson, Elizabeth and Fredrikson, Matt and Jha, Somesh and Mitchell, John C.},
+ title = {A Layered Architecture for Detecting Malicious Behaviors},
+ booktitle = {RAID '08: Proceedings of the 11th international symposium on Recent Advances in Intrusion Detection},
+ year = {2008},
+ isbn = {978-3-540-87402-7},
+ pages = {78--97},
+ location = {Cambridge, MA, USA},
+ doi = {http://dx.doi.org/10.1007/978-3-540-87403-4_5},
+ publisher = {Springer-Verlag},
+ address = {Berlin, Heidelberg},
+ }
+
+@inproceedings{Shah06-covert,
+ author = {Shah, Gaurav and Molina, Andres and Blaze, Matt},
+ title = {Keyboards and covert channels},
+ booktitle = {USENIX-SS'06: Proceedings of the 15th conference on USENIX Security Symposium},
+ year = {2006},
+ location = {Vancouver, B.C., Canada},
+ publisher = {USENIX Association},
+ address = {Berkeley, CA, USA},
+ }
+
+@inproceedings{Embleton08-SMM,
+ author = {Embleton, Shawn and Sparks, Sherri and Zou, Cliff},
+ title = {SMM rootkits: a new breed of OS independent malware},
+ booktitle = {SecureComm '08: Proceedings of the 4th international conference on Security and privacy in communication netowrks},
+ year = {2008},
+ isbn = {978-1-60558-241-2},
+ pages = {1--12},
+ location = {Istanbul, Turkey},
+ doi = {http://doi.acm.org/10.1145/1460877.1460892},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ }
+
+@inproceedings{Moffie06-trojans,
+ author = {Moffie, Micha and Cheng, Winnie and Kaeli, David and Zhao, Qin},
+ title = {Hunting Trojan Horses},
+ booktitle = {ASID '06: Proceedings of the 1st workshop on Architectural and system support for improving software dependability},
+ year = {2006},
+ isbn = {1-59593-576-2},
+ pages = {12--17},
+ location = {San Jose, California},
+ doi = {http://doi.acm.org/10.1145/1181309.1181312},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ }
+
+@inproceedings{Sagiroglu09-keyloggers,
+ author = {Sagiroglu, Seref and Canbek, Gurol},
+ title = {Keyloggers: Increasing Threats to Computer Security and Privacy},
+ booktitle = {Technology and Society Magazine, IEEE},
+ year = {2009},
+ pages = {10-17},
+ location = {Ankara, Turkey},
+ doi = {http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=5246998},
+ publisher = {IEEE},
+ }
+ 
+ @inproceedings{Yin07-panorama,
+ author = {Yin, Heng and Song, Dawn and Egele, Manuel and Kruegel, Christopher and Kirda, Engin},
+ title = {Panorama: capturing system-wide information flow for malware detection and analysis},
+ booktitle = {CCS '07: Proceedings of the 14th ACM conference on Computer and communications security},
+ year = {2007},
+ isbn = {978-1-59593-703-2},
+ pages = {116--127},
+ location = {Alexandria, Virginia, USA},
+ doi = {http://doi.acm.org/10.1145/1315245.1315261},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ }
+
+@article{Kabay05-malware,
+ author = {Kabay, M. E.},
+ title = {Some notes on malware},
+ journal = {Ubiquity},
+ year = {2005},
+ volume = {2005},
+ number = {August},
+ pages = {1--1},
+ doi = {http://doi.acm.org/10.1145/1088203.1088204},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ }
+ 
+ @book{Hoglund05-rootkits,
+ author = {Hoglund, Greg and Butler, Jamie},
+ title = {Rootkits: Subverting the Windows Kernel},
+ year = {2005},
+ isbn = {0321294319},
+ publisher = {Addison-Wesley Professional},
+ }
+ 
+ @book{Hoglund04-exploit,
+ author = {Hoglund, Greg and McGraw, Gary},
+ title = {Exploiting Software: How to Break Code},
+ year = {2004},
+ isbn = {0201786958},
+ publisher = {Pearson Higher Education},
+ }
+ 
